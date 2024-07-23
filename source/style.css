@@ -1,0 +1,46 @@
+html, body, #viewDiv {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+}
+
+#timeSlider {
+  position: absolute;
+  bottom: 20px;
+  left: 0;
+  right: 0;
+  width: 80%;
+  margin: auto;
+  z-index: 10;
+}
+
+.custom-legend {
+  position: absolute;
+  bottom: 60px;
+  left: 20px;
+  background-color: white;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+.legend-title {
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.custom-legend div {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.legend-circle {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  margin-right: 5px;
+}
