@@ -8,7 +8,7 @@ This project provides an interactive visualization of historical earthquake data
 This project displays earthquake magnitudes over time, utilizing data from the USGS PAGER program.
 
 ## Visualization
-The map can be visualized with the link below:
+The map can be visualized with this link:
 https://codepen.io/baddae/pen/mdZEvoK
 
 
