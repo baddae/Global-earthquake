@@ -1,4 +1,4 @@
-# Global-earthquake
+# Global-earthquakes
 Interactive global earthquake visualization with ArcGIS JavaScript API
 
 ## Description
